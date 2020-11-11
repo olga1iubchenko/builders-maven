@@ -1,4 +1,4 @@
-# Build the project with Gradle
+# Build the project with Maven
 
 Installation
 Maven is a Java tool, so you must have [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.html) installed in order to proceed.
