@@ -184,5 +184,6 @@ Note that the wildcard '*' has no special understanding of the '.' package separ
 
  ```
 You can also combine filters defined at the command line with continuous build to re-execute a subset of tests immediately after every change to a production or test source file. The following executes all tests in the 'com.mypackage.foo' package or subpackages whenever a change triggers the tests to run:
-
+```sh
 gradle test --continuous --tests "com.mypackage.foo.*"
+ ```
