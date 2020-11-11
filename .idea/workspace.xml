@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bf68b9c-ae1b-4459-8339-e9ac536381ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORK\Epam\ELearn\JavaMentoringProgram\5.BuildTools\maven\build tools\builders\web" />
+      <recent name="D:\WORK\Epam\ELearn\JavaMentoringProgram\5.BuildTools\maven\build tools\builders\utils" />
+      <recent name="D:\WORK\Epam\ELearn\JavaMentoringProgram\5.BuildTools\maven\build tools\builders\services" />
+      <recent name="D:\WORK\Epam\ELearn\JavaMentoringProgram\5.BuildTools\maven\build tools\builders\admin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AdminEntryPointTest">
+    <configuration name="AdminEntryPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.builders.admin.AdminEntryPoint" />
+      <module name="builders (4)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.builders.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminEntryPointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builders (4)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.builders.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.builders.admin" />
+      <option name="MAIN_CLASS_NAME" value="com.builders.admin.AdminEntryPointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuilderServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builders (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.builders.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.builders.services" />
+      <option name="MAIN_CLASS_NAME" value="com.builders.services.BuilderServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuildersUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builders (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.builders.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.builders.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.builders.utils.BuildersUtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloServletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builders (4)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.builders.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.builders.web" />
+      <option name="MAIN_CLASS_NAME" value="com.builders.web.HelloServletTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AdminEntryPointTest" />
+        <item itemvalue="JUnit.HelloServletTest" />
+        <item itemvalue="JUnit.BuilderServiceTest" />
+        <item itemvalue="JUnit.BuildersUtilTest" />
+        <item itemvalue="Application.AdminEntryPoint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bf68b9c-ae1b-4459-8339-e9ac536381ac" name="Default Changelist" comment="" />
+      <created>1605112684041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605112684041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1605114724035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1605114724035" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605116895880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605116895880" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605116895880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605116895880" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605116895880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605116895880" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605116895880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605116895880" />
+    <state x="331" y="0" key="SettingsEditor" timestamp="1605115155108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="331" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605115155108" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605114093884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605114093884" />
+  </component>
+</project>
